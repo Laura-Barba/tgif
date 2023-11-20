@@ -1,0 +1,1 @@
+export {default as FiftyFifty } from './Fifty-fifty'
